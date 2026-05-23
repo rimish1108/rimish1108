@@ -1,4 +1,7 @@
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff99,100:00ccff&height=250&section=header&text=Rimish%20Chandra%20Srivastava&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%20Developer%20|%20Cyberpunk%20Coder%20|%20Future%20FAANG%20Engineer&descAlignY=60" />
+</p>
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=38&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Hey+there,+I'm+Rimish+Chandra+Srivastava+👨‍💻;Full+Stack+Developer;AI+Enthusiast;Competitive+Programmer;Future+FAANG+Engineer;Code.+Learn.+Build.+Repeat." />
 </p>
 

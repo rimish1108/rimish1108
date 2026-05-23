@@ -1,132 +1,24 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff99,100:00ccff&height=250&section=header&text=Rimish%20Chandra%20Srivastava&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%20Developer%20|%20Cyberpunk%20Coder%20|%20Future%20FAANG%20Engineer&descAlignY=60" />
-</p>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&duration=3000&pause=1000&color=00FF99&center=true&vCenter=true&width=1000&lines=System+Booting...;Access+Granted+✅;Hi+👋,+I'm+Rimish;AI+Developer+%7C+Full+Stack+Engineer;Competitive+Programmer;Building+The+Future+With+Code+🚀" />
-</p>
+# 💫 About Me:
+##🌌 Hey there, I'm Rimish Chandra Srivastava 👨‍💻<br><br>Passionate B.Tech CSE student who loves building cool tech, exploring AI, and learning new technologies every single day.  <br>I enjoy creating projects, solving coding problems, and turning ideas into reality through code. 🚀  <br><br>- 🔭 I’m currently working on **AI Projects, Full Stack Web Development & Personal Branding**<br>- 🌱 I’m currently learning **Agentic AI, DSA, DevOps, Cloud Computing & Advanced Development**<br>- 👯 I’m looking to collaborate on **Open Source Projects, Startups & Innovative Tech Ideas**<br>- 🤝 I’m looking for help with **FAANG-Level Preparation, Competitive Programming & System Design**<br>- 💬 Ask me about **Python, GitHub, VS Code, Web Development, AI Tools & Productivity**<br>- ⚡ Fun fact: **I love debugging problems more than sleeping sometimes 😅**<br>- 🎯 Goal: **To become a top software engineer and build impactful AI products**<br>- 🚀 Motto: **Code. Learn. Build. Repeat.**<br><br>---<br>⭐ *“Dream big, stay consistent, and let your work speak louder than words.”*
+
+
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/devilking2029) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rimish-chandra-srivastava-a9a797343/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@RimishSriv98866) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rimishsrivastava3@gmail.com) 
+
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=Flutter&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=plastic&logo=opencv&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=plastic&logo=three.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=plastic&logo=redis&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=plastic&logo=firebase&logoColor=ffcd34) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=plastic&logo=jira&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=plastic&logo=powerbi&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=rimish1108&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=rimish1108&theme=react&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=rimish1108&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=rimish1108&limit=5&theme=solarized-dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://komarev.com/ghpvc/?username=rimish1108&icon=10&color=8)](https://visitcount.itsvg.in)
 
-# 💫 About Me
-
-## 🌌 Hey there, I'm Rimish Chandra Srivastava 👨‍💻
-
-Passionate B.Tech CSE student who loves building cool tech, exploring AI, and learning new technologies every single day.  
-I enjoy creating projects, solving coding problems, and turning ideas into reality through code. 🚀
-
-- 🔭 I’m currently working on **AI Projects, Full Stack Web Development & Personal Branding**
-- 🌱 I’m currently learning **Agentic AI, DSA, DevOps, Cloud Computing & Advanced Development**
-- 👯 I’m looking to collaborate on **Open Source Projects, Startups & Innovative Tech Ideas**
-- 🤝 I’m looking for help with **FAANG-Level Preparation, Competitive Programming & System Design**
-- 💬 Ask me about **Python, GitHub, VS Code, Web Development, AI Tools & Productivity**
-- ⚡ Fun fact: **I love debugging problems more than sleeping sometimes 😅**
-- 🎯 Goal: **To become a top software engineer and build impactful AI products**
-- 🚀 Motto: **Code. Learn. Build. Repeat.**
-
----
-
-⭐ *"Dream big, stay consistent, and let your work speak louder than words."*
-
----
-
-# 🌐 Socials
-
-<p align="center">
-<a href="https://linkedin.com/in/rimish-chandra-srivastava-a9a797343">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-
-<a href="https://github.com/rimish1108">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
-
-<a href="mailto:rimishsrivastava3@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
-</a>
-
-<a href="https://x.com/RimishSriv98866">
-<img src="https://skillicons.dev/icons?i=twitter" />
-</a>
-</p>
-
----
-
-# 💻 Tech Stack
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css,react,next,nodejs,express,mongodb,mysql,postgres,django,docker,aws,firebase,git,github,vscode,figma,flutter,tensorflow,pytorch" />
-</p>
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rimish1108&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=rimish1108&theme=tokyonight&hide_border=true" />
-
-</p>
-
----
-
-# 📈 Top Languages
-
-<p align="center">
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rimish1108&layout=compact&theme=tokyonight&hide_border=true" />
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=rimish1108&theme=tokyonight&no-frame=true&margin-w=10" />
-
-</p>
-
----
-
-# 📊 Contribution Graph
-
-[![Rimish's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rimish1108&theme=react-dark)](https://github.com/rimish1108)
-
----
-
-# ✍️ Random Dev Quote
-
-<p align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-
-</p>
-
----
-
-# 🔝 Top Contributed Repo
-
-<p align="center">
-
-<img src="https://github-contributor-stats.vercel.app/api?username=rimish1108&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
-
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://github.com/rimish1108/rimish1108/blob/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
-
-# 👀 Profile Views
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=rimish1108&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

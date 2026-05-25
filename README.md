@@ -24,5 +24,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <p align="center">
-  <img src="https://github.com/rimish1108/rimish1108/blob/output/github-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/rimish1108/rimish1108/output/github-snake-dark.svg" alt="Snake animation" />
 </p>

@@ -25,4 +25,4 @@
 
 ## 🐍 Contribution Snake
 
-![Snake animation](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake-dark.svg)
+![Snake animation](https://github.com/rimish1108/rimish1108/blob/output/github-snake-dark.svg)

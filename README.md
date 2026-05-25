@@ -23,6 +23,10 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<p align="center">
-  <img src="https://github.com/rimish1108/rimish1108/blob/output/github-snake-dark.svg" />
-</p>
+<div align="center">
+
+## 🐍 Contribution Snake
+
+<img src="https://github.com/rimish1108/rimish1108/blob/output/github-snake-dark.svg" alt="Snake animation" />
+
+</div>

@@ -13,7 +13,7 @@ jobs:
          github_user_name: rimish1108
          outputs:
            dist/github-snake-dark.svg?platte=github-dark
-    -uses: crazy-max/ghaction-github-pages@v3
+    - uses: crazy-max/ghaction-github-pages@v3
      with:
        target_branch: output
        build_dir: dist

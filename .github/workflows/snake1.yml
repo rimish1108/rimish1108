@@ -20,8 +20,7 @@ jobs:
           github_user_name: rimish1108
 
           outputs: |
-            dist/github-snake-dark.svg?palette=github-dark
-            dist/github-snake.svg?palette=github-light
+            dist/github-snake-dark.svg?color_snake=#ff0033
 
       - name: Push Snake Animation
         uses: crazy-max/ghaction-github-pages@v4

@@ -24,5 +24,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <p align="center">
-  <img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake.svg">
+  <img src="https://github.com/rimish1108/rimish1108/blob/output/github-snake.svg"/>
 </p>

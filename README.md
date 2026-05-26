@@ -15,14 +15,8 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=rimish1108&limit=5&theme=solarized-dark&combine_all_yearly_contributions=true)
 
----
 [![](https://komarev.com/ghpvc/?username=rimish1108&icon=10&color=8)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rimish1108/rimish1108/output/github-snake-dark.svg" alt="Snake animation" />
-</p>
